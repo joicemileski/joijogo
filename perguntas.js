@@ -1,17 +1,17 @@
 criaCartao(
     'Programação',
-    'Os Dorama são legal?',
-    'sim'
+    'O que é JavaScript?',
+    'O JavaScript é uma linguagem de programação'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da Coreia do Sul',
+    'Qual a capital da Coreia do Sul?',
     'A capital da Coreia é Seul'
 )
 
 criaCartao(
     'Programação',
-    'Os coreano gostam de comida picante?',
-    'Eles adora'
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
